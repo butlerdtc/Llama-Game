@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="5156f8e9-fd7b-46c8-b54b-fac258468283" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,8 +20,10 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.mario_v1 surfaces only.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/Robson School/OneDrive - Middleton Grange School/YR13/13DTC/3.7 & 3.8 Programming/Llama Game"
+    "last_opened_file_path": "C:/Users/Robson School/OneDrive - Middleton Grange School/YR13/13DTC/3.7 & 3.8 Programming/Llama Game",
+    "settings.editor.selected.configurable": "project.propVCSSupport.Mappings"
   }
 }]]></component>
   <component name="SharedIndexes">
