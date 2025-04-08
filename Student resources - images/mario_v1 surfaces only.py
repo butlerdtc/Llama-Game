@@ -31,4 +31,3 @@ while True:
 
     pygame.display.update()
     CLOCK.tick(60)  # This is the FPS
-
