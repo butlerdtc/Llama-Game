@@ -30,6 +30,8 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.01_display_v1.executor": "Run",
     "Python.01_display_v2.executor": "Run",
+    "Python.01_display_v3.executor": "Run",
+    "Python.01_display_v4.executor": "Run",
     "Python.mario_v1 surfaces only.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "last_opened_file_path": "C:/Users/Robson School/OneDrive - Middleton Grange School/YR13/13DTC/3.7 & 3.8 Programming/Llama Game",
