@@ -9,7 +9,7 @@ import pygame
 pygame.init()
 
 # Creates the screen with set dimensions
-screen = pygame.display.set_mode((900, 600))
+screen = pygame.display.set_mode((900, 500))
 
 # Quits the module then file
 pygame.quit()
